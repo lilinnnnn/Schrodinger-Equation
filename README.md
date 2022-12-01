@@ -1,0 +1,2 @@
+# Schrodinger-Equation
+just record
